@@ -44,7 +44,7 @@ Ziggy map syntax looks like this:
 
 Ziggy maps have the same notation as JSON objects but allow trailing commas.
 
-A hypotetical `package.ziggy`, where the outer key-value map is expressed as a struct, would look like this:
+A hypothetical `package.ziggy`, where the outer key-value map is expressed as a struct, would look like this:
 
 ```ziggy
 {
